@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/rajaganeshkana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajaganeshkana1" height="30" width="40" /></a>
 <a href="https://fb.com/raj ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raj ganesh" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_ganesh_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_ganesh_official_" height="30" width="40" /></a>
+<a href="https://instagram.com/raj_ganesh_official_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_ganesh_official_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
